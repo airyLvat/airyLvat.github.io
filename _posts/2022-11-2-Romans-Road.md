@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Romans Road
+author: tray
 ---
 
 The foundation of Christianity can be quickly understood by examining a collection of scripture from Romans.
