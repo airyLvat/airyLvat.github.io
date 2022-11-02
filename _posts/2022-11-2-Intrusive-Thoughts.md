@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intrusive Thoughts
+author: tray
 ---
 
 People of all ages and backgrounds may be plagued by intrusive thoughts. Here are some biblically supported ideas on them.
@@ -34,3 +35,6 @@ Intrusive thoughts are not necessarily sinful, even if they are blasphemous. Our
 
 > Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
 [Romans 12:2](https://my.bible.com/bible/59/ROM.12.2)
+
+> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.
+[Philippians 4:8](https://my.bible.com/bible/59/PHP.4.8)
