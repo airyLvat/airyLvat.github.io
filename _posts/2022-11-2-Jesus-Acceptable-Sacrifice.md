@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why is Jesus' death an acceptable sacrifice for our sins?
+author: tray
 ---
 
 The death of Jesus is the sacrifice by which Christians may be washed clean of their sins and be made righteous with God. Why is this acceptable? How can Jesus' death pay the debts of any and every random sinner who believes?
