@@ -14,7 +14,7 @@ Romans 3:9-12
 Romans 3:23
 
 > What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin, as it is written: “None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one.” for all have sinned and fall short of the glory of God,
-[Click to read](https://my.bible.com/bible/59/ROM.3.9-12,23)
+[Romans 3:9-12,23](https://my.bible.com/bible/59/ROM.3.9-12,23)
 
 This is one of the fundamental underpinnings of Christianity. This scripture says no one is righteous, not even one. I think it's important to note that this isn't an exaggeration, because that means us too have fallen out of righteousness with God. That doesn't seem good, does it? If you've ever, ever done something that you know was wrong, that's you. It's kind of a scary ideal.
 
@@ -23,7 +23,7 @@ This is one of the fundamental underpinnings of Christianity. This scripture say
 It's especially scary when we consider Romans 6:23.
 
 > For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
-[Click to read](https://my.bible.com/bible/59/ROM.6.23)
+[Romans 6:23](https://my.bible.com/bible/59/ROM.6.23)
 
 The "wages" of sin being "what you get for having sinned". "Death" being not just the physical death of your body, but eternal death, separation from God, commonly known as hell. But this verse also includes immense hope, that God offers a free gift of eternal "life" in this case not that you will physically live forever, but that when your time on earth ends, you will spend eternity with Him, commonly known as in heaven.
 
@@ -32,7 +32,7 @@ The "wages" of sin being "what you get for having sinned". "Death" being not jus
 How could that possibly work, though? Romans 5:8 elaborates that the death and resurrection of Jesus is the mechanism of our salvation.
 
 > but God shows his love for us in that while we were still sinners, Christ died for us.
-[Click to read](https://my.bible.com/bible/59/ROM.5.8)
+[Romans 5:8](https://my.bible.com/bible/59/ROM.5.8)
 
 By dying for us while we were sinners, Jesus is essentially a sacrifice on our behalf. One of the reasons this works is because Jesus lived the only sin-free life of any human to have ever lived, which was only possible because He is God. Because Jesus was sinless when he was killed, His death is a permissible substitute for the death we owe God for our sins (recall we are sinners, the wages of sin is death).
 
@@ -41,7 +41,7 @@ By dying for us while we were sinners, Jesus is essentially a sacrifice on our b
 More about how we actually receive salvation through Jesus: Romans 10:9-10 and Romans 10:13.
 
 > because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved. For “everyone who calls on the name of the Lord will be saved.”
-[Click to read](https://my.bible.com/bible/59/ROM.10.9-10,13)
+[Romans 10:9-10,13](https://my.bible.com/bible/59/ROM.10.9-10,13)
 
 This is a critical point. It isn't just enough that Jesus died for us, but we have to actually accept that. Jesus died for us, but if we don't "opt in", and accept that our actions have caused us to be separate from God and that we need that debt to be paid before we are righteous again, we're still just in our sin.
 
@@ -52,13 +52,13 @@ Confessing your sins to God means taking accountability for them. That regardles
 Once we are saved, our relationship with Jesus brings us into a relationship of peace with God. Romans 5:1, Romans 8:1, Romans 8:38-39.
 
 > Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.
-[Click to read](https://my.bible.com/bible/59/ROM.5.1)
+[Romans 5:1](https://my.bible.com/bible/59/ROM.5.1)
 
 > There is therefore now no condemnation for those who are in Christ Jesus.
-[Click to read](https://my.bible.com/bible/59/ROM.8.1)
+[Romans 8:1](https://my.bible.com/bible/59/ROM.8.1)
 
-> There is therefore now no condemnation for those who are in Christ Jesus. For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
-[Click to read](https://my.bible.com/bible/59/ROM.8.1,38-39)
+> For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
+[Romans 8:38-39](https://my.bible.com/bible/59/ROM.8.38-39)
 
 Once we accept God's gift of salvation, we have the reward of knowing that we won't be condemned for our sins. This isn't a license to willfully sin going forward, but it's a step in our growth towards God.
 
