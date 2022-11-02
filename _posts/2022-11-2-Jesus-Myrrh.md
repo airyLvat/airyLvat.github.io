@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jesus and Myrrh
+author: Rev. Dr. Mike
 ---
 
 Something fascinating to consider regarding the resurrection of Jesus and his burial. Originally written by Rev. Dr. Mike.
