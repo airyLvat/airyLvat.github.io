@@ -5,6 +5,8 @@ title: Proof of Christian God
 
 Here's my quickest canned response to the question "Does God exist? And how do you know it's the Christian God?"
 
+## Proof of God
+
 First, here's a quick summary of my arguments for the existence of God. There's many more arguments, and more to be said on each of these, but this is my "light" version of this.
 
 1. Cosmology - Space-time and matter had a beginning out of nothing. The Second Law of Thermodynamics, expanding universe, radiation afterglow and great galaxy seeds from the big bang explosion, and Einstein's Theory of General Relativity are scientific evidence for this. There is also undeniable philosophical evidence for the beginning as today never would have arrived if there were an infinite number of days before today. Since space, time and matter had a beginning, there must be a spaceless, timeless, immaterial and super-powerful cause beyond the universe that brought the universe into existence. These are some of the attributes of a theistic God.
@@ -12,6 +14,8 @@ First, here's a quick summary of my arguments for the existence of God. There's 
 2. Teleological - The universe not only exploded into being out of nothing, it did so with extreme precision and it remains fine-tuned today. If any one of dozens of forces (gravitational, weak force, electromagnetic, etc.) were different by an infinitesimal amount (like one part in 10 to the power of 100), life would not exist. The initial conditions for the universe were also fine-tuned. If the expansion rate of the universe was different by one part in a thousand, million, million a second after the big bang, the universe would have collapsed back on itself or never developed galaxies. The big bang was not a scattered explosion, but a fine-tuned guided creation event that continues to be guided today. If the force of gravity was different by one part in 10 to the power of 40 (think one inch vs the entire known universe), our sun would have never formed. The best explanation for this extreme fine-tuning is an intelligent Being - the very same spaceless, timeless, immaterial and super-powerful Being that created the universe. There is no cosmic evolutionary theory that can explain this. A Designer is the best explanation.
 
 3. Moral - If objective moral values exist, then God exists. If there is even one action that is objectively morally wrong, such as torturing somebody for fun or murdering six million people in the Holocaust, then God exists. Why? Because only an unchanging moral authority can provide unchanging moral laws that are binding on humans. If no objective, unchanging moral law giver exists, then no objective unchanging moral laws can exist. Without God, everything would be a matter of human opinion. Without God nothing is really just or unjust, good or evil, right or wrong, and there are no true moral causes or human rights.
+
+## God of the Bible
 
 So, how do we know it's the Christian God? If the New Testament is reliable - if Jesus really died and rose from the dead - then it's pretty easy to make the case that Jesus is God and the entire Bible is the Word of God. There are four questions to ask and if all of their answers are "yes", then we know the New Testament is reliable.
 
