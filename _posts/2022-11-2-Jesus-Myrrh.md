@@ -4,7 +4,7 @@ title: Jesus and Myrrh
 author: Rev. Dr. Mike
 ---
 
-Something fascinating to consider regarding the resurrection of Jesus and his burial. Originally written by Rev. Dr. Mike.
+Something fascinating to consider regarding the resurrection of Jesus and his burial.
 
 ## How Jesus' body was prepared
 
@@ -12,4 +12,4 @@ Mary's brother was buried with 10 to 15 lb of myrrh, Jesus was buried with eithe
 
 ## What that means
 
-So, Jesus would have been encased in 150 lbs cast that really couldn't have been cut open. And somebody would have noticed a stiff man being carried by four people because were now we're talking a 300 lbs body across the valley. It is simply unfeasible that his body was taken. Plus, it was under guard and even if you ignore the guards the road to the city was right there. The casting with murder is a strong proof that the resurrection happened exactly how the Gospels say. Also, there were no shreddings from the casting only a neatly folded napkin 
+So, Jesus would have been encased in 150 lbs cast that really couldn't have been cut open. And somebody would have noticed a stiff man being carried by four people because were now we're talking a 300 lbs body across the valley. It is simply unfeasible that his body was taken. Plus, it was under guard and even if you ignore the guards the road to the city was right there. The casting with murder is a strong proof that the resurrection happened exactly how the Gospels say. Also, there were no shreddings from the casting only a neatly folded napkin.
