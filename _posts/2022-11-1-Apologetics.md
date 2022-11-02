@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Proof of Christian God
+author: tray
 ---
 
 Here's my quickest canned response to the question "Does God exist? And how do you know it's the Christian God?"
