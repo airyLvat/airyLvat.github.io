@@ -3,6 +3,8 @@ layout: post
 title: Romans Road
 ---
 
+The foundation of Christianity can be quickly understood by examining a collection of scripture from Romans.
+
 ## We have all sinned
 
 Here's a few verses to consider that are important to consider regarding the Christian idea of salvation.
