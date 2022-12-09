@@ -11,6 +11,10 @@ description: A collection of writing about God
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/airyLvat/airyLvat.github.io/master/images/airy-logo.png
 
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 #
 # Flags below are optional
 #
@@ -84,7 +88,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
