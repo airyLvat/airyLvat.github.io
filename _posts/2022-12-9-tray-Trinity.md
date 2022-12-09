@@ -29,7 +29,7 @@ Most people don't debate who the Father is. It's very, very clear in both the Ne
 > And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
 [Matthew 3:16-17](https://my.bible.com/bible/59/MAT.3.16-17.ESV)
 
-This scripture makes it clear, in no uncertain terms, that God the Father and God the Son are *distinct* beings. God the Father is widely accepted as God **and he is a distinct person from God the Son**. The Father, who is speaking, talks about the Son as though he is a different person. This is a relational interaction between the two persons.
+This scripture makes it clear, in no uncertain terms, that God the Father and God the Son are *distinct* persons. God the Father is widely accepted as God **and he is a distinct person from God the Son**. The Father, who is speaking, talks about the Son as though he is a different person. This is a relational interaction between the two persons.
 
 ## Is Jesus (the Son) God?
 
