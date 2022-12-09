@@ -50,6 +50,9 @@ Next, let’s show that each Person is called God:
 > And I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am! Send me.”
 [Isaiah 6:8](https://my.bible.com/bible/59/ISA.6.8)
 
+> And disagreeing among themselves, they departed after Paul had made one statement: “The Holy Spirit was right in saying to your fathers through Isaiah the prophet:
+[Acts 28:25](https://my.bible.com/bible/59/ACT.28.25)
+
 Now let’s go deeper and see how these Three Persons are distinct, co-eternal, and co-equal.
 
 ## Distinctness
