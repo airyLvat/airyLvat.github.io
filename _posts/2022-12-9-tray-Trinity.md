@@ -1,7 +1,7 @@
 ---
 layout: post
-title: tray - How do I defend the Trinity?
-author: Kingsley
+title: How do I defend the Trinity?
+author: tray
 ---
 
 The Christian doctrine of the Trinity defines **one God** existing in three coequal, coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons all sharing one essence. The Trinity is something that many Christians have misconceptions or misunderstandings about and a subject that non-Christians like to attack or use as a reason to dismiss Christianity. There **is no perfect analogy** for the Trinity and the most mature Christians will freely admit that it's a challenging concept that they may still grapple with. This post will cover why the Trinity is so hard to understand, why Christianity is still monotheistic even with a Triune God, the persons of the Trinity, and then how to answer common questions about it.
