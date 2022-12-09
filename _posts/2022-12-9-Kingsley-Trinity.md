@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kingsley - Trinity 101 - Exploring the Foundations of the Christian Doctrine
+title: Trinity 101 - Exploring the Foundations of the Christian Doctrine
 author: Kingsley
 ---
 
