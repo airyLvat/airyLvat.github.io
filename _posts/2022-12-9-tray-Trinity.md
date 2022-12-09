@@ -4,13 +4,13 @@ title: tray - How do I defend the Trinity?
 author: Kingsley
 ---
 
-The Christian doctrine of the Trinity defines **one God** existing in three coequal, coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons all sharing one essence. The Trinity is something that many Christian's have misconceptions or misunderstandings about and a subject that non-Christians like to attack or use as a reason to dismiss Christianity. There **is no perfect analogy** for the Trinity and the most mature Christians will freely admit that it's a challenging concept that they may still grapple with. This post will cover why the Trinity is so hard to understand, why Christianity is still monotheistic even with a Triune God, the persons of the Trinity, and then how to answer common questions about it.
+The Christian doctrine of the Trinity defines **one God** existing in three coequal, coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons all sharing one essence. The Trinity is something that many Christians have misconceptions or misunderstandings about and a subject that non-Christians like to attack or use as a reason to dismiss Christianity. There **is no perfect analogy** for the Trinity and the most mature Christians will freely admit that it's a challenging concept that they may still grapple with. This post will cover why the Trinity is so hard to understand, why Christianity is still monotheistic even with a Triune God, the persons of the Trinity, and then how to answer common questions about it.
 
 ## Why it's so hard to understand the Trinity. Why there are no perfect analogies. Why it doesn't matter.
 
 Before diving into the topic of the Trinity, it's important to understand *why* it's so hard to understand the Trinity.
 
-You reading this and me writing this both exist in "the same mode". We are created, finite, limited beings. We experience time one second after another, we exist materially (physically) and we were made *in the image* of God. God, however, as the infinite, eternal, uncreated, perfect, omnipresent, omniscient, omnipotent, creator and sustainer of time and the universe is an immaterial being. The existence that you and I experience is an entirely different mode than the existence of God. There is nothing in material existence that offers a perfect analogy to the existence of our Triune God. People like to come up with all kinds of worldly analogies (water, an apple, wearing different hats, etc.) but those are all imperfect and wrong in some way (perhaps a post on common Trinity misconceptions will come eventually). It's so hard to understand the Trinity (and therefore hard to defend, understand and why people like to attack it) because we can't relate to it. There's nothing that any human has ever experienced that's like God's existence.
+You reading this and me writing this both exist in "the same mode". We are created, finite, limited beings. We experience time one second after another, we exist materially (physically) and we were made *in the image* of God. God, however, as the infinite, eternal, uncreated, perfect, omnipresent, omniscient, omnipotent, creator and sustainer of time and the universe is an immaterial being. The existence that you and I experience is an entirely different mode than the existence of God. There is nothing in material existence that offers a perfect analogy to the existence of our Triune God. People like to come up with all kinds of worldly analogies (water in different states, different parts of an apple, one man wearing different hats, etc.) but those are all imperfect and wrong in different ways (perhaps a post on common Trinity misconceptions will come eventually). It's so hard to understand the Trinity (and therefore hard to defend, understand and why people like to attack it) because we can't relate to it. There's nothing that any human has ever experienced that's like God's existence.
 
 **But that's okay.** We aren't called to understand God's perfect nature. We're called to obey and love him, to walk the path he lays before us dutifully and repent for when we inevitably all fall short. It's okay not to have a perfect grasp on the Trinity, because it's not necessary for us to have one.
 
@@ -26,10 +26,10 @@ Part of obeying God is believing the Bible. When the Bible says that the Father 
 
 Most people don't debate who the Father is. It's very, very clear in both the New Testament and the Old Testament that God the Father is God. It's trivial to defend that point. What you might have to understand, though, is that the Father is not the Son. Luckily, we have scripture to make that clear.
 
-> And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him;
-[Matthew 3:16](https://my.bible.com/bible/59/MAT.3.16.ESV)
+> And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
+[Matthew 3:16-17](https://my.bible.com/bible/59/MAT.3.16-17.ESV)
 
-This scripture makes it clear, in no uncertain terms, that God the Father and God the Son are *distinct* beings. God the Father is widely accepted as God **and he is a distinct person from God the Son**. The Father, who is speaking, talks about the Son as though he is a different person. This is a relational interaction between the two.
+This scripture makes it clear, in no uncertain terms, that God the Father and God the Son are *distinct* beings. God the Father is widely accepted as God **and he is a distinct person from God the Son**. The Father, who is speaking, talks about the Son as though he is a different person. This is a relational interaction between the two persons.
 
 ## Is Jesus (the Son) God?
 
@@ -40,7 +40,7 @@ Consider this passage from Colossians 2.
 > See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ. For in him the whole fullness of deity dwells bodily,
 [Colossians 2:8-9](https://my.bible.com/bible/59/COL.2.8-9.ESV)
 
-Verse 8 might make us ask what evil would ever seek to lead us away from the truth of Christ? What *is* the truth of Christ? Luckily, verse 9 answers immediately: that the whole fullness of deity dwells in his body. Scripture makes it clear that this is the truth of Christ and we must not let anyone lead us away from it. He's divine not in the sense of pagan deity, but in the Jewish monotheistic sense.
+Verse 8 might make us ask what evil would ever seek to lead us away from the truth of Christ? So, what *is* the truth of Christ? Luckily, verse 9 answers immediately: that the whole fullness of deity dwells in his body. Scripture makes it clear that this is the truth of Christ and we must not let anyone lead us away from it. He's divine not in the sense of pagan deity, but in the Jewish monotheistic sense.
 
 Sometimes people say Jesus is "100% human and 100%" divine. The problem with that is it's a logical fallacy that Jesus could be 200% something. We also can't say that he's 50% divine and 50% human because that's simply incorrect. What we should say instead is that he is **truly** God and **truly** man. It's genuine when we say what Jesus is.
 
@@ -49,7 +49,7 @@ Here's a passage from Titus 2 that clearly identifies Jesus as God.
 > waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,
 [Titus 2:13](https://my.bible.com/bible/59/TIT.2.13.ESV)
 
-Some people try to twist this scripture to say that it talks about two subjects: "our great God" and separately "our Savior Jesus Christ". There is, however, a language rule in Greek that invalidates this argument called [Granville Sharp's rule](https://www.youtube.com/watch?v=nnh_gFv1zFc&t=0s). When you put language together, there are certain rules and they can be applied consistently. You can watch t.he linked video to dive more deeply into this specific language rule, but what it *means* is that "God" and "Savior" are **absolutely both being applied to Jesus**. There's no grey area, no room for misinterpretation, no exceptions to this grammatical rule. The argument that this scripture from Titus is referring to two subjects is invalid. Therefore, Jesus is God.
+Some people try to twist this scripture to say that it talks about two subjects: "our great God" and separately "our Savior Jesus Christ". There is, however, a language rule in Greek that invalidates this argument called [Granville Sharp's rule](https://www.youtube.com/watch?v=nnh_gFv1zFc&t=0s). When you put language together, there are certain rules and they can be applied consistently. You can watch the linked video to dive more deeply into this specific language rule, but what it *means* is that "God" and "Savior" are **absolutely both being applied to Jesus**. There's no grey area, no room for misinterpretation, no exceptions to this grammatical rule. The argument that this scripture from Titus is referring to two subjects is invalid. Therefore, Jesus is God.
 
 The same grammatical rule is applied elsewhere in scripture, like in this excerpt from 2 Peter 1. Scripture is consistent on this matter: Jesus is God.
 
@@ -58,7 +58,7 @@ The same grammatical rule is applied elsewhere in scripture, like in this excerp
 
 ### Why doesn't Jesus ever say "I am God"?
 
-But why doesn't Jesus ever say that he's God? You might ask. Well, firstly, that's not a valid argument. I don't have to tell you something about myself for it to be true. Whether or not I tell you that I'm short doesn't change the fact that I'm short. However, this argument is moot anyway because Jesus actually does proclaim his divinity.
+But why doesn't Jesus ever say that he's God? Well, firstly, that's not a valid argument. I don't have to tell you something about myself for it to be true. Whether or not I tell you that I'm short doesn't change the fact that I'm short. However, this argument is moot anyway because Jesus actually does proclaim his divinity.
 
 > Jesus said to them, "Truly, truly, I say to you, before Abraham was, I am."
 [John 8:58](https://my.bible.com/bible/59/JHN.8.58.ESV)
@@ -137,9 +137,9 @@ In this passage, the Holy Spirit is speaking and if you weren't asking the quest
 
 > And while Peter was pondering the vision, the Spirit said to him, "Behold, three men are looking for you. [Acts 10:19](https://my.bible.com/bible/59/ACT.10.19.ESV)
 
-The Holy Spirit speaks as though he is God and as though he has personhood. The Holy Spirit does several things including guiding, testifying, discloses, glorifies Christ, and more. These are not things that random forces do. He can also be blasphemed.
+The Holy Spirit speaks as though he is God and as though he has personhood. The Holy Spirit does several things including guiding, testifying, disclosing, glorifies Christ, and more things that only a person can do. These are not things that random forces do. He can also be blasphemed. You can't blaspheme electricity or gravity or some other natural force - only someone personal.
 
-> but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin" —
+> but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin"
 [Mark 3:29](https://my.bible.com/bible/59/MRK.3.29.ESV)
 
 The Holy Spirit is as much a person as Jesus. But is he God? Consider these words of Jesus, who we have already determined is God.
@@ -175,11 +175,11 @@ These verses from Isaiah demonstrate, overwhelmingly, that there is one God. God
 * **Q: In John 17:3, Jesus says that God is the only true God.**
   * A: We believe that the Father is the only true God and so is Jesus and so is the Holy Spirit. Recall John 1:1 that says the Word is God and John 8:58 where Jesus says "I am".
 * **Q: Jesus isn't God because he says "the Father is greater than I" in John 14:28.**
-  * A: The context is that Jesus is in his earthly body and saying that it's a good thing that he is going to the Father. So in what sense is the Father greater than Jesus? Firstly, it's person-specific. He doesn't say that "God" is greater than me, but "the Father". Persons being greater than each other is different than God being greater. Also in John 17:5, he says "now Father glorify me in your own presence with the glory that I had with you before the world existed." This is because Jesus had laid aside his glory to become man. He's still God, but when he took on flesh he's bodily and therefore humbled and lowly. He's looking forward to the glorification when he returns to the Father. In Philippians 2:6-7, Jesus says that equality with God is not a thing to be grasped but he emptied himself by taking the form of a servant.
+  * A: The context is that Jesus is in his earthly body and saying that it's a good thing that he is going to the Father. It's person-specific sense of greatness. He doesn't say that "God" is greater than me, but "the Father". Persons being greater than each other is different than God being greater. Also in John 17:5, he says "now Father glorify me in your own presence with the glory that I had with you before the world existed." This is because Jesus had laid aside his glory to become man. He's still God, but when he took on flesh he's bodily and therefore humbled and lowly. He's looking forward to the glorification when he returns to the Father. In Philippians 2:6-7, Jesus says that equality with God is not a thing to be grasped but he emptied himself by taking the form of a servant.
 * **Q: Was God praying to God when Jesus prayed?**
   * A: When you have three persons in one being, you can understandably have communication between those three persons without them being separate beings. The members of the Trinity can communicate with each other because they are distinct.
 * **Q: How can Jesus be God if he is God's Son?**
-  * A: He is God's Son in the sense of *person*.
+  * A: He is God's Son in the sense of *person*. This does not mean that he is not God in the sense of *being*.
 * **Colossians says that Jesus is the first creation of God. How can he be created if he is God? (Colossians 1:15)**
   * It doesn't say he's created. Let's check the scripture. It says he's the image of God. He's God in human form. He's the firstborn of all creation because he's in charge of all creation. Firstborn doesn't mean that he's the first one born. It's a reference to his **rank**, that he is the "highest" or "King of Kings", aka God. Keep reading Colossians and it's obvious.
 
