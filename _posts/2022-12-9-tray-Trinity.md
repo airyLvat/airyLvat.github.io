@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do I defend the Trinity?
+title: Tell me about the Trinity
 author: tray
 ---
 
