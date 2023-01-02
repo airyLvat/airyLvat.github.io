@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Romans Road
+title: Christianity Fundamentals
 author: tray
 ---
 
