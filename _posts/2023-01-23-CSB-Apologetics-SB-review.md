@@ -4,7 +4,7 @@ title: CSB Apologetics Study Bible Quick Review
 author: tray
 ---
 
-The CSB Apologetics Study Bible aims to equip Christians with information that's helpful in understanding and defending their faith. Apologetics is an area of theological study that I recently read from cover-to-cover. It took me about a month (including some time off over Christmas) of daily reading. In this post I'll describe what I did and didn't like about it and hopefully help you decide if you want to read it, too.
+The CSB Apologetics Study Bible aims to equip Christians with information that's helpful in understanding and defending their faith. Apologetics is an area of theological study that I love and have recently dived head first into. So, I got this Study Bible and read from cover-to-cover. It took me about a month (including some time off over Christmas) of daily reading. In this post I'll describe what I did and didn't like about it and hopefully help you decide if you want to read it, too.
 
 ## Disclaimer
 
