@@ -11,12 +11,15 @@ People who doubt Christianity or the authenticity of the Bible often make a clai
 This Gospel doesn't explicitly name its author. Irenaeus quoted this Gospel as being "of Matthew" around 180 AD. The early church was in unanimous agreement that Matthew wrote this Gospel but Irenaeus was the first to explicitly claim it. The best evidence from the Gospel itself that Matthew is the author is that it's the only in this one that Levi the tax collector is identified as the apostle Matthew (Matthew 9:9, Matthew 10:3). At the very least, this suggests the author presents Matthew's witness/testimony. It also shows clear evidence that the author possessed a strong command of Aramaic and Greek which would have been a prerequisite for a tax collector. It also uses more specific language over the coin used in the dispute of the tribute (Matthew 22:19) than Mark or Luke which very strongly implies that the author was conversant in the fine details of money and finance which supports the idea that the author is a tax collector.
 
 > As Jesus passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.
+
 [Matthew 9:9](https://my.bible.com/bible/59/MAT.9.9)
 
 > Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;
+
 [Matthew 10:3](https://my.bible.com/bible/59/MAT.10.3)
 
 > Show me the coin for the tax.” And they brought him a denarius.
+
 [Matthew 22:19](https://my.bible.com/bible/59/MAT.22.19)
 
 ## Mark
@@ -28,6 +31,7 @@ The earliest title of this Gospel that includes "of Mark" are from around the 20
 Luke was a traveling companion of Paul (Colossians 4:14 and others). It's unlikely that a Greco-Roman literary work like this Gospel would have been published anonymously. Usually the name of the author, if not indicated directly in the text, was attached as a tag to the scroll. The earliest manuscript we have that bears the title "according to Luke" is from the end of the 100s AD, the heretic Marcion acknowledged Luke as the author as early as 135 AD. The Muratorian canon (185 AD) names the author of this Gospel "Luke, that physician, who after the ascension of Christ, when Paul had taken him with him as companion of his journey, composed in his own name, on the basis of report". There is no competing tradition of authorship in the early church like could be expected if Luke's name were attached to the Gospel on conjecture. As a minor character in the NT, there would have been other competing authorship traditions if Luke's authorship was at all questionable.
 
 > Luke the beloved physician greets you, as does Demas.
+
 [Colossians 4:14](https://my.bible.com/bible/59/COL.4.14)
 
 ## John
