@@ -13,6 +13,7 @@ I've got opinions on which Bible translations are better than others which I'm a
 ## How to think about different Bible translations
 
 Bible translations are generally classified by how "literal" they are versus how "dynamic" they are.
+
 ### Word for word translations (literal translations)
 
 Bible translations are normally graded along a spectrum where on one end is "word for word" translations and on the other is "thought for thought" translations. Word for word translations strive to be as faithful as possible to the underlying original manuscripts that are written in Greek and Hebrew. They can be a little tougher to read, but are sometimes considered "more accurate". Popular word for word translations include NASB and ESV.
