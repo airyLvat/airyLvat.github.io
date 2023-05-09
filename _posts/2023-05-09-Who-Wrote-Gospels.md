@@ -33,3 +33,7 @@ Luke was a traveling companion of Paul (Colossians 4:14 and others). It's unlike
 ## John
 
 The case that John wrote this Gospel is solid. He refers to himself as the "one that Jesus loved", the brother of James and son of Zebedee, as early tradition suggests. The same tradition places John in and around Ephesus, ministering to churches in Asia Minor until his death around the end of the first century. The author would have thus been an eyewitness to much of the material he recounted and would be in a position to provide accurate information. This Gospel appears to be the first of five books John wrote in the 90s AD, the next ones being the three letters that bear his name and the book of Revelation.
+
+## Sources
+
+This post bases much of the contained information on the [CSB Apologetics Study Bible](https://airylvat.github.io/CSB-Apologetics-SB-review/).
